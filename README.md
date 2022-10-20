@@ -6,7 +6,7 @@ The task is to implement a fully functional website in [Flask](https://flask.pal
 
 You get to put to use a lot of the knowledge that you gain by going trough the course.
 
-Python, HTML, CSS, SQL and Jinja templates are glued together in a fully-functional web application - it was the first one for me.
+Python, HTML, CSS, SQL and Jinja templates are glued together in a fully-functional web application - it was the first real challenge in cs50x for me.
 
 
 ### Requirements:
